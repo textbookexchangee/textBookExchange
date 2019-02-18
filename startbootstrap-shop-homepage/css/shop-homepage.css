@@ -9,20 +9,16 @@ body {
 
 .carouselImg {
   height: 300px;
-  display: inline;
-  margin-right: 100px;
+  padding: 10px;
   float: right;
 }
 
 .priceCut{
-  margin-left: 20px;
-  /*padding: 5px;*/
+  margin: auto;
+  padding: 40px;
   float:left;
 }
 
-.priceImgDiv{
-  /*position:relative;*/
-  /*left:400px;*/
-  /*bottom:70px;*/
-  float:right;
+.salePrice {
+  color: rgb(19, 209, 19);
 }
